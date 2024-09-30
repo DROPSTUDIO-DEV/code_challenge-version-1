@@ -76,7 +76,7 @@ Este es un diagrama que modela las entidades para el sistema de reservas de vuel
 +—————————————————––+        | departure_time     |
 | updated_at        |        | arrival_time       |
 +—————––————————————+        | price              |
-| seats_available   |
+| seats_available   |        +—————––—————————————+
 | created_at        |
 | updated_at        |
 +—————––————————————+
